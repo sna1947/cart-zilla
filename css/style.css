@@ -1,3 +1,5 @@
+
+
 .css_banner_colour{
     background-color: #F6F9FC;
 }
@@ -13,3 +15,24 @@
 .container_trending_products{
     background-color: #FFFFFF;
 } 
+.button_color {
+    background-color: #FE3638;
+}
+.margin_love{
+    margin-left: 240px;
+    
+}
+/* ipad-section======================================================= */
+.iPad-Pro{
+    background-color: #F0F7FF;
+}
+/* .yt-color{
+    background-color: #FF0000;
+} */
+/* .margin_ipad{
+    margin-left: 190px;
+} */
+/* .love_icone{
+    width: 120px;
+    height: 120px;
+} */
